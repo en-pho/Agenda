@@ -2,7 +2,7 @@
 ENPHO Agenda
 
 Dev Team:
-https://github.com/en-pho/gallery/blob/second-buffer/todo.md
+https://github.com/en-pho/gallery/blob/pre-publish/TODO.md
 # **TODO**
 
 <!-- ## UI -->
