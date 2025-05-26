@@ -2,6 +2,7 @@
 ENPHO Agenda
 
 Dev Team:
+https://github.com/en-pho/gallery/blob/second-buffer/todo.md
 # **TODO**
 
 <!-- ## UI -->
@@ -20,4 +21,3 @@ Dev Team:
 ## Backend
 
 1. Improve **OAuth** logic.
-https://github.com/en-pho/gallery/blob/second-buffer/todo.md
