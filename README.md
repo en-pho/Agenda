@@ -1,8 +1,12 @@
 # Agenda
 ENPHO Agenda
 
+General Information:
+https://github.com/en-pho/gallery/blob/main/README.md
+
 Dev Team:
 https://github.com/en-pho/gallery/blob/main/TODO.md
+
 # **TODO**
 
 <!-- ## UI -->
